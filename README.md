@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Iñigo Expósito Castro
 
-Welcome to my GitHub profile (@inigo-exposito)!  
+Welcome to my GitHub profile (@inigo-exp)!  
 I'm a **Data Scientist** with a strong background in **Statistics and Mathematics**, passionate about applying **Machine Learning** and **Generative AI** to real-world problems.  
 I love building scalable, data-driven solutions that merge analytical rigor with practical impact.
 

@@ -13,6 +13,29 @@ I'm a Data Scientist with a strong background in Statistics and Mathematics, pas
 - 📊 Currently pursuing an MSc in Financial Engineering at WorldQuant University.  
 - 💡 Interested in Quantitative Finance, Biostatistics, Big Data Analytics, and NLP applications in industry.  
 
+
+---
+
+## 🌟 Featured Projects  
+
+### 🧬 Biomarker Selection in Liver and Breast Cancer  
+[🔗 View Repository](https://github.com/inigo-exp/Biomarker-Selection-in-Liver-and-Breast-Cancer)  
+Comparative study of penalized regression and Bayesian variable selection for biomarker discovery using RNA-seq data.  
+- Implemented LASSO, Ridge, Elastic Net, and Bayesian learning for high-dimensional gene expression analysis.  
+- Assessed cross-cancer transfer learning using TCGA datasets.  
+- Conducted reproducible analysis in R for biomarker discovery and interpretability.  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+---
+
+### 🗞️ Text Mining on Global News  
+[🔗 View Repository](https://github.com/inigo-exp/textmining_global_news)  
+Pipeline for automatic dictionary generation and vocabulary tracking from text corpora using NLP techniques.  
+- Built a dictionary-based vocabulary analysis pipeline in Python.  
+- Designed corpus selection and vocabulary categorization methodology.  
+- Applied NLP preprocessing and text analysis using spaCy, NLTK, and Pandas.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ---
 
 ## 🛠️ Languages and Tools

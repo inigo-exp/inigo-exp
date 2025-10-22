@@ -81,6 +81,7 @@ I love building scalable, data-driven solutions that merge analytical rigor with
 [![Email](https://img.shields.io/badge/Email-2002inigo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2002inigo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iñigo%20Expósito%20Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iñigo-exposito-castro-6208b1291)
 [![GitHub](https://img.shields.io/badge/GitHub-inigo--exp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inigo-exp)
+![GitHub Banner](https://raw.githubusercontent.com/inigo-exp/inigo-exp/main/banner.png)
 
 
 ⭐️ *“Combining analytical depth with practical implementation to create AI solutions that make sense — and make impact.”*

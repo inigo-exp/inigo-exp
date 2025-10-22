@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Iñigo 
 
 Welcome to my GitHub profile (@inigo-exp)!  
-I'm a Data Scientist with a strong background in Statistics and Mathematics, passionate about applying Machine Learning and Generative AI to real-world problems.  
-I love building scalable, data-driven solutions that merge analytical rigor with practical impact.
+I'm a Data Scientist with a strong background in Statistics and Mathematics, passionate about applying Machine Learning and Generative AI to real-world problems. I love building scalable, data-driven solutions that merge analytical rigor with practical impact.
 
 ---
 

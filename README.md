@@ -14,22 +14,42 @@ I'm a Data Scientist with a strong background in Statistics and Mathematics, pas
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
-### Biomarker Selection in Liver and Breast Cancer  
-[🔗 View Repository](https://github.com/inigo-exp/Biomarker-Selection-in-Liver-and-Breast-Cancer)  
-Comparative study of penalized regression and Bayesian variable selection for biomarker discovery using RNA-seq data.  
-- Implemented LASSO, Ridge, Elastic Net and Bayesian learning for high-dimensional gene expression analysis.  
-- Assessed cross-cancer transfer learning using TCGA datasets.   
+### [Advanced-Techniques-in-Regression-and-Unsupervised-Learning-for-Hepatitis-Mortality-Analysis](https://github.com/inigo-exp/Advanced-Techniques-in-Regression-and-Unsupervised-Learning-for-Hepatitis-Mortality-Analysis)  
+Statistical analysis of hepatitis mortality using LASSO, Bayesian Model Averaging, PCA, and clustering to identify key predictors and clinical patterns.  
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
----
+### [Biomarker-Selection-in-Liver-and-Breast-Cancer](https://github.com/inigo-exp/Biomarker-Selection-in-Liver-and-Breast-Cancer)  
+Comparative study of penalized regression and Bayesian variable selection for biomarker discovery using RNA-seq data.  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### Text Mining on Global News  
-[🔗 View Repository](https://github.com/inigo-exp/textmining_global_news)  
-Pipeline for automatic dictionary generation and vocabulary tracking from text corpora using NLP techniques.  
-- Built a dictionary-based vocabulary analysis pipeline in Python.  
-- Designed corpus selection and vocabulary categorization methodology.  
+### [textmining_global_news](https://github.com/inigo-exp/textmining_global_news)  
+NLP pipeline for automatic dictionary generation and vocabulary tracking from text corpora using news datasets.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### [Geospatial-Analysis-of-Conflict-and-Natural-Resources-in-Africa](https://github.com/inigo-exp/Geospatial-Analysis-of-Conflict-and-Natural-Resources-in-Africa)  
+Geospatial study of conflict patterns across Africa, analyzing the relationship between natural resource locations and armed conflict intensity.  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+### [Urban-Inequality-and-Housing-Market-Analysis](https://github.com/inigo-exp/Urban-Inequality-and-Housing-Market-Analysis)  
+End-to-end Big Data project on urban inequality and housing affordability using income, cultural, and housing price datasets.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### [Hard-Instances-in-Participatory-Budgeting](https://github.com/inigo-exp/Hard-Instances-in-Participatory-Budgeting)  
+Optimization project analyzing computational hardness in participatory budgeting problems using instance generation and Gurobi.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### [Estimating-the-Causal-Effect-of-Smoking-Cessation-on-Weight-Gain](https://github.com/inigo-exp/Estimating-the-Causal-Effect-of-Smoking-Cessation-on-Weight-Gain)  
+Causal inference analysis using the NHEFS dataset to estimate how quitting smoking affects body weight.  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+### [Reinforcement-Learning](https://github.com/inigo-exp/Reinforcement-Learning)  
+Implementation of dynamic programming and multi-armed bandit algorithms in Python to explore reinforcement learning fundamentals.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### [Hotel-Price-Analysis-During-the-Formula-1-Grand-Prix](https://github.com/inigo-exp/Hotel-Price-Analysis-During-the-Formula-1-Grand-Prix)  
+Web scraping and text mining of hotel data to measure the price impact of the 2025 Formula 1 Grand Prix in Barcelona using a Difference-in-Differences approach.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---

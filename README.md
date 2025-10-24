@@ -5,18 +5,18 @@ I'm a Data Scientist with a strong background in Statistics and Mathematics, pas
 
 ---
 
-## 🚀 About Me
-- 🎯 Currently working as a Data Scientist at ADP, developing and validating LLM-based and Retrieval-Augmented Generation architectures for document understanding and conversational AI.  
-- 🎓 Completed an MSc in Data Science Methodology at the Barcelona School of Economics.  
-- 📐 Trained as a Mathematician, specialized in Applied Mathematics, Statistics, and Computer Science.  
-- 📊 Currently pursuing an MSc in Financial Engineering at WorldQuant University.  
-- 💡 Interested in Quantitative Finance, Biostatistics, Big Data Analytics and NLP applications in industry.  
+## About Me
+- Currently working as a Data Scientist at ADP, developing and validating LLM-based and Retrieval-Augmented Generation architectures for document understanding and conversational AI.  
+- Completed an MSc in Data Science Methodology at the Barcelona School of Economics.  
+- Trained as a Mathematician, specialized in Applied Mathematics, Statistics, and Computer Science.  
+- Currently pursuing an MSc in Financial Engineering at WorldQuant University.  
+- Interested in Quantitative Finance, Biostatistics, Big Data Analytics and NLP applications in industry.  
 
 ---
 
 ## 🌟 Featured Projects  
 
-### 🧬 Biomarker Selection in Liver and Breast Cancer  
+### Biomarker Selection in Liver and Breast Cancer  
 [🔗 View Repository](https://github.com/inigo-exp/Biomarker-Selection-in-Liver-and-Breast-Cancer)  
 Comparative study of penalized regression and Bayesian variable selection for biomarker discovery using RNA-seq data.  
 - Implemented LASSO, Ridge, Elastic Net and Bayesian learning for high-dimensional gene expression analysis.  
@@ -25,7 +25,7 @@ Comparative study of penalized regression and Bayesian variable selection for bi
 
 ---
 
-### 🗞️ Text Mining on Global News  
+### Text Mining on Global News  
 [🔗 View Repository](https://github.com/inigo-exp/textmining_global_news)  
 Pipeline for automatic dictionary generation and vocabulary tracking from text corpora using NLP techniques.  
 - Built a dictionary-based vocabulary analysis pipeline in Python.  
@@ -34,9 +34,9 @@ Pipeline for automatic dictionary generation and vocabulary tracking from text c
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
-### 💻 Programming
+### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -45,7 +45,7 @@ Pipeline for automatic dictionary generation and vocabulary tracking from text c
 
 ---
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 ![Predictive Models](https://img.shields.io/badge/Predictive%20Models-4B8BBE?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat)
 ![NLP](https://img.shields.io/badge/NLP-3C9CD7?style=flat)
@@ -60,7 +60,7 @@ Pipeline for automatic dictionary generation and vocabulary tracking from text c
 
 ---
 
-### 📊 Data Science & Visualization
+### Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
@@ -68,7 +68,7 @@ Pipeline for automatic dictionary generation and vocabulary tracking from text c
 
 ---
 
-### 🗄️ Databases & Big Data
+### Databases & Big Data
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
@@ -77,7 +77,7 @@ Pipeline for automatic dictionary generation and vocabulary tracking from text c
 
 ---
 
-### ⚙️ MLOps & Tools
+### MLOps & Tools
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
@@ -88,7 +88,7 @@ Pipeline for automatic dictionary generation and vocabulary tracking from text c
 
 ---
 
-### 🧩 Others
+### Others
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
@@ -99,6 +99,3 @@ Pipeline for automatic dictionary generation and vocabulary tracking from text c
 [![Email](https://img.shields.io/badge/Email-2002inigo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2002inigo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iñigo%20Expósito%20Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iñigo-exposito-castro-6208b1291)
 [![GitHub](https://img.shields.io/badge/GitHub-inigo--exp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inigo-exp)
-
-
-*“Combining analytical depth with practical implementation to create AI solutions that make impact.”*

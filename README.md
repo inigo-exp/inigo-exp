@@ -101,4 +101,4 @@ Pipeline for automatic dictionary generation and vocabulary tracking from text c
 [![GitHub](https://img.shields.io/badge/GitHub-inigo--exp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inigo-exp)
 
 
-⭐️ *“Combining analytical depth with practical implementation to create AI solutions that make sense — and make impact.”*
+*“Combining analytical depth with practical implementation to create AI solutions that make impact.”*

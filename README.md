@@ -1,18 +1,16 @@
 # 👋 Hi there, I'm Iñigo 
 
 Welcome to my GitHub profile (@inigo-exp)!  
-I'm a Data Scientist with a strong background in Statistics and Mathematics, passionate about applying Machine Learning and Generative AI to real-world problems. I love building scalable, data-driven solutions that merge analytical rigor with practical impact.
+I'm a Data Scientist with a strong background in Statistics and Mathematics, passionate about applying Machine Learning and Generative AI to real-world problems.
 
 ---
 
 ## 🚀 About Me
-- 🎯 Currently working as a Data Scientist at ADP, developing and validating LLM-based and Retrieval-Augmented Generation (RAG) architectures for document understanding and conversational AI.  
-- 🧠 Skilled in predictive modeling, generative AI, and end-to-end data pipelines — from preprocessing and training to evaluation and deployment at scale.  
+- 🎯 Currently working as a Data Scientist at ADP, developing and validating LLM-based and Retrieval-Augmented Generation architectures for document understanding and conversational AI.  
 - 🎓 Completed an MSc in Data Science Methodology at the Barcelona School of Economics.  
 - 📐 Trained as a Mathematician, specialized in Applied Mathematics, Statistics, and Computer Science.  
 - 📊 Currently pursuing an MSc in Financial Engineering at WorldQuant University.  
-- 💡 Interested in Quantitative Finance, Biostatistics, Big Data Analytics, and NLP applications in industry.  
-
+- 💡 Interested in Quantitative Finance, Biostatistics, Big Data Analytics and NLP applications in industry.  
 
 ---
 
@@ -21,9 +19,8 @@ I'm a Data Scientist with a strong background in Statistics and Mathematics, pas
 ### 🧬 Biomarker Selection in Liver and Breast Cancer  
 [🔗 View Repository](https://github.com/inigo-exp/Biomarker-Selection-in-Liver-and-Breast-Cancer)  
 Comparative study of penalized regression and Bayesian variable selection for biomarker discovery using RNA-seq data.  
-- Implemented LASSO, Ridge, Elastic Net, and Bayesian learning for high-dimensional gene expression analysis.  
-- Assessed cross-cancer transfer learning using TCGA datasets.  
-- Conducted reproducible analysis in R for biomarker discovery and interpretability.  
+- Implemented LASSO, Ridge, Elastic Net and Bayesian learning for high-dimensional gene expression analysis.  
+- Assessed cross-cancer transfer learning using TCGA datasets.   
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ---
@@ -33,7 +30,6 @@ Comparative study of penalized regression and Bayesian variable selection for bi
 Pipeline for automatic dictionary generation and vocabulary tracking from text corpora using NLP techniques.  
 - Built a dictionary-based vocabulary analysis pipeline in Python.  
 - Designed corpus selection and vocabulary categorization methodology.  
-- Applied NLP preprocessing and text analysis using spaCy, NLTK, and Pandas.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---

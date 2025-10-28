@@ -10,7 +10,7 @@ I'm a Data Scientist with a strong background in Statistics and Mathematics, pas
 - Completed an MSc in Data Science Methodology at the Barcelona School of Economics.  
 - Trained as a Mathematician, specialized in Applied Mathematics, Statistics, and Computer Science.  
 - Currently pursuing an MSc in Financial Engineering at WorldQuant University.  
-- Interested in Quantitative Finance, Biostatistics, Big Data Analytics and NLP applications in industry.  
+- Interested in Quantitative Finance, Biostatistics, Big Data Analytics, Quantum Machine Learning and NLP applications in industry.  
 
 ---
 

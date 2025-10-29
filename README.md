@@ -7,8 +7,8 @@ I'm a Data Scientist with a strong background in Statistics and Mathematics, pas
 
 ## About Me
 - Currently working as a Data Scientist at ADP, developing and validating LLM-based and Retrieval-Augmented Generation architectures for document understanding and conversational AI.  
-- Completed an MSc in Data Science Methodology at the Barcelona School of Economics.  
-- Trained as a Mathematician, specialized in Applied Mathematics, Statistics, and Computer Science.  
+- Completed a MSc in Data Science Methodology at the Barcelona School of Economics.  
+- Trained as a Mathematician, specialized in Applied Mathematics, Statistics and Computer Science.  
 - Currently pursuing an MSc in Financial Engineering at WorldQuant University.  
 - Interested in Quantitative Finance, Biostatistics, Big Data Analytics, Quantum Machine Learning and NLP applications in industry.  
 

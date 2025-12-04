@@ -6,7 +6,7 @@ I'm a Data Scientist with a strong background in Statistics and Mathematics, pas
 ---
 
 ## About Me
-- Currently working as a Data Scientist at ADP, developing and validating LLM-based and Retrieval-Augmented Generation architectures for document understanding and conversational AI.  
+- Currently working as a Data Scientist at ADP, developing and validating LLM-based architectures for document understanding and conversational AI, and applying statistical survival models to predict employee turnover risk with proper censored-data treatment and model calibration.  
 - Completed a MSc in Data Science Methodology at the Barcelona School of Economics.  
 - Trained as a Mathematician, specialized in Applied Mathematics, Statistics and Computer Science.  
 - Currently pursuing an MSc in Financial Engineering at WorldQuant University.  

@@ -69,13 +69,10 @@ Web scraping and text mining of hotel data to measure the price impact of the 20
 ![Predictive Models](https://img.shields.io/badge/Predictive%20Models-4B8BBE?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat)
 ![NLP](https://img.shields.io/badge/NLP-3C9CD7?style=flat)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-009688?style=flat)
 ![Model Validation](https://img.shields.io/badge/Model%20Validation-6D4C41?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=flat&logo=huggingface&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 
 ---
@@ -93,7 +90,6 @@ Web scraping and text mining of hotel data to measure the price impact of the 20
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -104,7 +100,6 @@ Web scraping and text mining of hotel data to measure the price impact of the 20
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 

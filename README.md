@@ -52,7 +52,7 @@ Implementation of dynamic programming and multi-armed bandit algorithms in Pytho
 Web scraping and text mining of hotel data to measure the price impact of the 2025 Formula 1 Grand Prix in Barcelona using a Difference-in-Differences approach.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### [Commuting-probability-in-finite-groups (Basque)] (https://github.com/inigo-exp/Commuting-probability-in-finite-groups-Basque-/blob/main/README.md)
+### [Commuting-probability-in-finite-groups (Basque)](https://github.com/inigo-exp/Commuting-probability-in-finite-groups-Basque)
 Bachelor’s thesis (in Basque) on the commuting probability of finite groups and related tools from group theory and graph theory.
 
 ## Languages and Tools
